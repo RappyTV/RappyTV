@@ -1,0 +1,17 @@
+name: Letzte Youtube Videos
+on:
+  schedule:
+    # Läuft jede Stunde
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Aktualisier die Readme dieses Repos mit den letzten Youtube Videos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTio1_CZ1zrEStPI1CgG1Jg"
