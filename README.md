@@ -27,7 +27,7 @@
 <!-- YOUTUBE:START -->
 - [Verifizierungshaken für deine Email auf iOS bekommen | Tutorial](https://www.youtube.com/watch?v=Thyf0drCtGI)
 - [Discord.js V12 ROLLEN durch REAKTIONEN hinzufügen und entfernen | Tutorial](https://www.youtube.com/watch?v=E8q7lDXGMiw)
-- [Discord.js KNÖPFE schicken und Funktionen belegen | Tutorial](https://www.youtube.com/watch?v=SeAOC_kRSY4)
+- [Discord.js KNÖPFE schicken und Funktionen belegen [discord.js v12] | Tutorial](https://www.youtube.com/watch?v=SeAOC_kRSY4)
 - [Discord VANITY-Link OHNE BOOSTS ganz einfach erstellen | Tutorial](https://www.youtube.com/watch?v=60DngdNu0pc)
 - [Discord BOT mit Heroku HOSTEN [24/7 Online]](https://www.youtube.com/watch?v=jynxRJKGohY)
 <!-- YOUTUBE:END -->
