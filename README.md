@@ -5,7 +5,7 @@
 ## Ich bin ein Youtuber, Discord Bot-, Minecraft Plugin-, und Twitch Bot Developer!!
 
 - 🔭 Hier kannst du dir meine Tutorials zu Discord Bots in JavaScript anschauen: [Playlist][dcbotplaylist]
-- 🌱 Ich lerne gerade Java.
+- 🌱 Ich lerne gerade die C-Sprachen.
 - 🥅 Mein Ziel für 2022: Meine ersten Opensource Projekte auf GitHub veröffentlichen.
 - ❤ Lade meinen Discord Bot auf deinen Server ein: [discord.com][dcBot]
 
