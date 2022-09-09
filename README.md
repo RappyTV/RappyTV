@@ -37,7 +37,6 @@
 ---
 
 <img align="left" alt="RappyTV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RappyTV&show_icons=true&hide_border=true" />
-<img align="left" alt="RappyTV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RappyLabyAddons&show_icons=true&hide_border=true" />
 
 [website]: https://rappytv.com/
 [youtube]: https://youtube.com/c/RappyTVTutorials
