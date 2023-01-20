@@ -22,6 +22,14 @@
 
 ---
 
+### Donate
+
+**BTC**: `bc1q2ze0ns5twtj4f7j7tyt832thq4hk92jw99rddd`<br>
+**ETH**: `0xa16AE682c4230ae784CC84b0104b1902d591297b`<br>
+**PayPal**: `rappytv@rappytv.com`
+
+---
+
 ### 📺 Letzte Youtube Videos
 
 <!-- YOUTUBE:START -->
