@@ -9,6 +9,12 @@
 - 🥅 Mein Ziel für 2022: Meine ersten Opensource Projekte auf GitHub veröffentlichen.
 - ❤ Lade meinen Discord Bot auf deinen Server ein: [discord.com][dcBot]
 
+---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/397829538773598220?idleMessage=~Currently%20coding%20something%20ig~)](https://discord.com/users/397829538773598220)
+
+---
+
 ### Soziale Netzwerke
 
 [<img align="left" alt="RappyTV | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -33,18 +39,13 @@
 ### 📺 Letzte Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Discord Bot in JavaScript mit Discord.JS v13 PROGRAMMIEREN | RappyTV Tutorials](https://www.youtube.com/watch?v=4Zfi7j9L35Q)
-- [Verifizierungshaken für deine Email auf iOS bekommen | Tutorial](https://www.youtube.com/watch?v=Thyf0drCtGI)
-- [Discord.js V12 ROLLEN durch REAKTIONEN hinzufügen und entfernen | Tutorial](https://www.youtube.com/watch?v=E8q7lDXGMiw)
-- [Discord.js KNÖPFE schicken und Funktionen belegen [discord.js v12] | Tutorial](https://www.youtube.com/watch?v=SeAOC_kRSY4)
-- [Discord VANITY-Link OHNE BOOSTS ganz einfach erstellen | Tutorial](https://www.youtube.com/watch?v=60DngdNu0pc)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/c/RappyTVTutorials/videos)
+➡️ [more videos...](https://www.youtube.com/@RappyyTV)
 
 ---
 
-<img align="left" alt="RappyTV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RappyTV&show_icons=true&hide_border=true" />
+<img align="left" alt="RappyTV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RappyTV&show_icons=true&hide_border=true&theme=dark" />
 
 [website]: https://rappytv.com/
 [youtube]: https://youtube.com/c/RappyTVTutorials
