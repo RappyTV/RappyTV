@@ -39,6 +39,7 @@
 ### 📺 Letzte Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Eigenen DISCORD BOT mit discord.js v14 PROGRAMMIEREN](https://www.youtube.com/watch?v=3J4k-P7HdUk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@RappyyTV)
