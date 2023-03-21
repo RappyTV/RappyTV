@@ -1,57 +1,30 @@
-### Hey, ich bin [RappyTV][Website] 👋
+<h1 align="center">👋 Hey, I'm RappyTV</h1>
+<h3 align="center">A developer from Germany</h3>
 
-[![Website](https://img.shields.io/website?label=rappytv.com&style=for-the-badge&url=https://www.google.com)](https://rappytv.com)
+- 🔭 I’m currently working on **German Miner Casino**
 
-## Ich bin ein Youtuber, Discord Bot-, Minecraft Plugin-, und Twitch Bot Developer!!
+- 🌱 I’m currently learning **c++**
 
-- 🔭 Hier kannst du dir meine Tutorials zu Discord Bots in JavaScript anschauen: [Playlist][dcbotplaylist]
-- 🌱 Ich lerne gerade die C-Sprachen.
-- 🥅 Mein Ziel für 2022: Meine ersten Opensource Projekte auf GitHub veröffentlichen.
-- ❤ Lade meinen Discord Bot auf deinen Server ein: [discord.com][dcBot]
+- 📫 You can reach me at **contact@rappytv.com** or on **[discord](https://discord.com/users/397829538773598220)**
 
----
+#
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/397829538773598220?idleMessage=~Currently%20coding%20something%20ig~)](https://discord.com/users/397829538773598220)
+<h3>🧰 Tools and skills</h3>
 
----
+<img align="left" alt="javascript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="react" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="node" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="express" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="mongodb" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="bash" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="heroku" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+<img align="left" alt="photoshop" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="linux" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="git" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br>
 
-### Soziale Netzwerke
+#
 
-[<img align="left" alt="RappyTV | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="RappyTV | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RappyTV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="RappyTV | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][dcServer]
-[<img align="left" alt="RappyTV | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
-
-<br />
-<br />
-
----
-
-### Donate
-
-**BTC**: `bc1q2ze0ns5twtj4f7j7tyt832thq4hk92jw99rddd`<br>
-**ETH**: `0xa16AE682c4230ae784CC84b0104b1902d591297b`<br>
-**PayPal**: `rappytv@rappytv.com`
-
----
-
-### 📺 Letzte Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Eigenen DISCORD BOT mit discord.js v14 PROGRAMMIEREN](https://www.youtube.com/watch?v=3J4k-P7HdUk)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/@RappyyTV)
-
----
-
-<img align="left" alt="RappyTV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RappyTV&show_icons=true&hide_border=true&theme=dark" />
-
-[website]: https://rappytv.com/
-[youtube]: https://youtube.com/c/RappyTVTutorials
-[instagram]: https://instagram.com/rappyytv
-[dcbotplaylist]: https://youtube.com/playlist?list=PL-NddfqjbJVZ2-CGquW0I42J9IGUkXq12
-[dcServer]: https://rappytv.com/server
-[dcBot]: https://rappytv.com/bot
-[tiktok]: https://tiktok.com/@rappytv
+<h3>📊 Stats</h1>
+<img align="left" alt="RappyTV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RappyTV&show_icons=true&hide_border=true&theme=dark&include_all_commits=true" />
