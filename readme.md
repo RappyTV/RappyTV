@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm RappyTV</h1>
 <h3 align="center">A developer from Germany</h3>
 
-- 🔭 I’m currently working on **German Miner Casino**
+- 🔭 I’m currently working on some [**LabyMod Addons**](https://github.com/RappyLabyAddons)
 
 - 🌱 I’m currently learning **c++**
 
