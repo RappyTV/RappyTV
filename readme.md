@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm RappyTV</h1>
 <h3 align="center">A developer from Germany</h3>
 
-- 🔭 I’m currently working on [**Lyli**](https://github.com/UltronDevelopment/Lyli)
+- 🔭 I’m currently focusing on my Minecraft mod [**GlobalTags**](https://github.com/Global-Tags)
 
 - 🌱 I’m currently learning **next.js**
 
